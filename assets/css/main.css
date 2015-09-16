@@ -3998,5 +3998,6 @@
 						padding: 0;
 					}
 #two {
-background-image: url(/images/collage.jpg);
+background-image: url("images/collage.jpg");
 	}}
+	
