@@ -3366,7 +3366,7 @@
 			max-width: 95%;
 			padding: 6em;
 			position: relative;
-			text-align: right;
+			
 			vertical-align: middle;
 			z-index: 1;
 		}
@@ -3392,7 +3392,7 @@
 				//height: 18em;
 				//margin-left: 3em;
 				vertical-align: middle;
-				width: 18em;
+				//width: 18em;
 			}
 
 				#banner .content .image img {
