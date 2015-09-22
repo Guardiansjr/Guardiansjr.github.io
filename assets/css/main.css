@@ -391,7 +391,7 @@
 	}
 
 	.\34 u, .\34 u\24 {
-		width: 33.3333333333%;
+		width: 100%;
 		clear: none;
 		margin-left: 0;
 	}
@@ -3992,6 +3992,7 @@
 						margin: 0;
 						padding: 0;
 					}
+					.4u 12u$(medium)
 
 	}
 	
