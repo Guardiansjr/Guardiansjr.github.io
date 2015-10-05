@@ -3994,7 +3994,7 @@
 					}
 					.4u 12u$(medium)
 
-					button {
+					.hover {
 	border: none;
 	background: #3a7999;
 	color: #f2f2f2;
@@ -4006,11 +4006,12 @@
 	transition: all 500ms ease; 
 }
 
-button:hover {
+.hover {
 	background: rgba(0,0,0,0);
 	color: #3a7999;
 	box-shadow: inset 0 0 0 3px #3a7999;
 }
-
+#Feliks {font-family: 11;
 	}
+}
 	
